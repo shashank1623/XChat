@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Ubuntu', sans-serif;
+    background-color: black;
+}
+
+div{
+    color: white;
+    font-size: 40px;
+}
+
+.ml3 .letter {
+  display: inline-block;
+  line-height: 1em;
+}
